@@ -1,0 +1,267 @@
+2021-11-12 - v1.4.10
+-----------------------------
+* Feature : WooCommerce Compatible 5.9.x
+
+2021-07-28 - v1.4.9
+-----------------------------
+* Feature : WordPress Compatible 5.8
+* Feature : WooCommerce Compatible 5.5.x
+* Update  : Disabled widgets block editor temporarily
+* Update  : Compatible with Redux 4.2.x
+
+2020-11-20 - v1.4.8
+-----------------------------
+* Feature : WooCommerce 4.7 compatible
+* Feature : Improvements to one click demo import
+* Fix     : Icon related issues
+* Update  : Slider Revolution to 6.3.0
+
+2020-09-19 - v1.4.7
+-----------------------------
+* Update  : Fixed an issue related to WordPress 5.5 jQuery
+
+2020-09-08 - v1.4.6
+-----------------------------
+* Feature : Fontawesome 5.14.0
+* Feature : Compatible with WordPress 5.5
+* Feature : Compatible with WooCommerce 4.4
+* Update  : Slider Revolution to 6.2.22
+
+2020-03-12 - v1.4.5
+-----------------------------
+* Feature : WooCommerce 4.x compatible
+* Update  : Slider Revolution to 6.2.2
+
+2020-02-21 - v1.4.4
+-----------------------------
+* Feature : Compatibility with WPForms
+* Feature : Theme options for WPForm button color
+* Update  : Updated Dummy Data
+* Update  : Slider Revolution to 6.1.8
+
+2020-01-16 - v1.4.3
+-----------------------------
+* Feature : Additional Theme Options
+* Feature : Font Awesome 5.12.0
+* Feature : Improvements to Shop Archive View render logic
+* Feature : Lighter Techmarket Theme
+* Update  : Slider Revolution to 6.1.6
+* Fix     : Fixed issues with WCFM
+
+2019-09-06 - v1.4.2
+-----------------------------
+* Update  : Compatible with WooCommerce 3.8
+* Update  : Slider Revolution to 6.1.3
+* Fix     : Fixed an issue with reviews
+
+2019-08-01 - v1.4.1
+-----------------------------
+* Feature : WCFM Compatible
+* Update  : Updated Slider Revolution to 6.0.7
+
+2019-06-20 - v1.4.0
+-----------------------------
+* Feature : Elementor Compatible
+* Feature : Improvements to One Click Demo Import
+* Update  : Updated Slider Revolution to 5.4.8.3
+
+2019-04-19 - v1.3.1
+-----------------------------
+* Update  : Replaced deprecated function get_woocommerce_term_meta
+
+2019-04-18 - v1.3.0
+-----------------------------
+* Update  : Compatible with WooCommerce 3.6
+* Update  : Updated Slider Revolution
+
+2019-01-08 - v1.2.10
+-----------------------------
+* Update  : Updated Slider Revolution
+* Update  : Footer more filters added
+* Update  : Compatible with WooCommerce 3.5
+* Fix     : Fixed an issue with menu icons
+* Fix     : Fixed an issue with category carousel slug
+* Fix     : Fixed an issue with shop jumbotron filter issue
+* Fix     : Fixed an issue with dropdown menu arrow
+
+2018-08-17 - v1.2.9
+-----------------------------
+* Update  : Updated handheld header search block
+* Fix     : Fixed an issue with Products Carousel with image block
+* Fix     : Fixed an issue with variation images in product gallery
+
+2018-07-16 - v1.2.8
+-----------------------------
+* Update  : Updated Slider Revolution
+* Fix     : Fixed an issue with mobile search block
+* Fix     : Fixed an issue with handheld menu dropdown
+
+2018-06-04 - v1.2.7
+-----------------------------
+* Update  : Updated Slider Revolution
+* Fix     : Fixed an issue with single product review rating
+* Fix     : Fixed an issue with category widget alignment
+
+2018-05-19 - v1.2.6
+-----------------------------
+* Update  : WooCommerce templates updated for 3.4
+* Update  : Filter added for hidemaxlistitem
+* Fix     : Fixed an issue with primary color
+* Fix     : Fixed an issue with categlog mode
+* Fix     : Fixed an issue with star rating
+
+2018-02-23 - v1.2.5
+-----------------------------
+* Update  : Compatible with WooCommerce 3.3.3
+* Fix     : Fixed rtl issues related to deal timer
+
+2018-02-07 - v1.2.4
+-----------------------------
+* Update  : Compatible with WooCommerce 3.3.1
+
+2018-02-02 - v1.2.3
+-----------------------------
+* Fix     : CSS issues related to WooCommerce 3.3.0
+
+2018-02-01 - v1.2.2
+-----------------------------
+* Update  : Compatible with WooCommerce 3.3.0
+* Update  : Updated Slider Revolution and WPBPage Builder ( formerly Visual Composer )
+* Update  : Roboto font family as a fallback for Rubik
+* Fix     : Issues with posts gallery
+* Fix     : Issue with variation SKU
+* Fix     : Responsive issues
+
+2017-12-20 - v1.2.1
+-----------------------------
+* Feature : WooCommerce Tab manager compatibility added
+* Update  : Revolution Slider updated to 5.4.6.4
+* Update  : YITH premium plugins check added for tgmpa
+* Update  : Single product gallery updated
+* Fix     : Onsale variable product price issue fixed
+* Fix     : Checkout shipping total style issue fixed
+* Fix     : Accessories tab style issue fixed
+* Fix     : Mobile menu firefox issue fixed
+* Fix     : Blog grid issues fixed
+* Fix     : Blog style issue fixed in archives
+
+2017-11-23 - v1.2.0
+-----------------------------
+* Feature : WC Composite Products compatibility added
+* Feature : YITH Compare ajax header counter added
+* Feature : YITH Wishlist ajax header counter added
+* Update  : Revolution Slider updated to 5.4.6.3.1
+* Update  : Gallery zoom support filter added
+* Fix     : Products query transiant name conflict
+* Fix     : Categories carousel slug issue fixed
+* Fix     : Home v6 carousel arrow issue fixed
+* Fix     : Product item style issue fixed
+
+2017-11-17 - v1.1.2
+-----------------------------
+* Update  : Compatible with WooCommerce 3.2.4
+* Update  : Revolution Slider updated to 5.4.6.3
+* Update  : Departments menu dropdown animation updated
+* Update  : Product item inner wrap added
+* Fix     : Products carousel block responsive issue fixed
+* Fix     : Home v3 categories carousel slug issue fixed
+* Fix     : Home v4, Home v5 carousel arrow issue fixed
+* Fix     : Android handheld menu dropdown issue fix
+* Fix     : Carousel navigation issues fixed
+* Fix     : Mobile menu style issues fixed
+* Fix     : Yith ajax filter issue fixed
+* Fix     : Header z-index issue fixed
+* Fix     : Minicart style issue fixed
+
+2017-10-12 - v1.1.1
+-----------------------------
+* Update  : Compatible with WooCommerce 3.2.0
+* Update  : Revolution Slider updated to 5.4.6.1
+* Update  : VC, KC elements info updated
+* Update  : Fine-tuned mobile menu
+* Update  : Brand Images display style
+* Update  : Dokan and WC Vendors pro additional pages
+* Feature : Compatible with YITH Ajax Filters
+* Fix     : Issues with single product availability
+
+2017-09-19 - v1.1.0
+-----------------------------
+* Compatibility : Additional params for Visual Composer & King Composer
+* Compatibility: Additional compatibility for Vendors Pro & Dokan
+* Compatibility : WPML Config file for WPML
+* Feature : Shop Options to toggle recently viewed and brands carousel
+* Feature : 3-2-3 Default tab option added
+* Feature : Header v6 action button options
+* Feature : Filters and actions for home metaboxes to extend via child theme
+* Feature : New mobile menu, modified tabs and 2-products in mobile view
+* Feature : RTL Sliders
+* Feature : Single Product thumbnail carousel
+* Fixed : Issue with accessories with tax
+* Fixed : Static block KC cache issue
+* Fixed : My account address and sidebar issues
+* Fixed : Issue with shop page jumbotron
+* Fixed : 2000px+ responsive issues
+* Fixed : Empty my account options
+* Fixed : Ajax removal in cart page
+* Fixed : Footer issue with IE11
+
+2017-08-30 - v1.0.6
+-----------------------------
+* Better compatibility for WC Marketplace and WC Vendors Pro
+* Added better linkage for affiliate links
+* Credit card form styling
+* Fixed an issue with onsale sign
+* Fixed minor RTL issues
+* Fixed an issue with single product page image gallery
+* Fixed a flex menu issue
+* Fixed an issue with check for header
+* Fixed an issue with mini cart on cart and checkout pages
+* Fixed issues with landscape products carousel
+* Fixed footer issue in Edge
+
+2017-08-26 - v1.0.5
+-----------------------------
+* Users can now choose different headers for different homepage templates
+* Added more features to WC Vendors Pro
+* Added additional options for Specifications tab
+* Updated dummy sliders
+* Updated a single product thumbnail feature
+* Fixed issues with cross-sells and up-sells
+* Fixed an issue with dropdown
+* Fixed an issue with loading third-party sliders
+
+2017-08-22 - v1.0.4
+-----------------------------
+* Fixed issues with 1400-1600px screens
+* Updated sliders to fix 1400-1600px screen res
+* Home v4 widget issue fixed
+* Custom color issue fixed
+* Added more options in Techmarket
+
+2017-08-21 - v1.0.3
+-----------------------------
+* Added my account theme options
+* Fixed issues with mini cart in header
+* Single product accessories issue in safari
+
+2017-08-20 - v1.0.2
+-----------------------------
+* Updated sliders to remove unwanted Google Fonts
+* Fixed layout issues with cart and checkout
+* Updated mobile header to show count
+* WC Vendors Pro compatibility
+* Home v5-v8 - Smart customisation feature introducted
+* Issue with sticky header menu fixed
+* Quick switch to Roboto available
+
+2017-08-11 - v1.0.1
+-----------------------------
+* Updated TGMPA requirements
+* Dummy data updated
+* Categories carousel slug issue fixed
+* Mini cart dropdpown disabled in cart page
+* Live search issue fixed in color background
+
+2017-08-07 - v1.0.0
+-----------------------------
+* Initial Release

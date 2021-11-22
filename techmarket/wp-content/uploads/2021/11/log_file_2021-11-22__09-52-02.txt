@@ -1,0 +1,649 @@
+
+---Downloaded files---
+The import files for: Techmarket - Elementor were successfully downloaded!
+Initial max execution time = 18000
+Files info:
+Site URL = http://localhost/wordpress/techmarket
+Data file = D:\PHP\htdocs\wordpress\techmarket/wp-content/themes/techmarket/assets/dummy-data/elementor/dummy-data.xml
+Widget file = D:\PHP\htdocs\wordpress\techmarket/wp-content/themes/techmarket/assets/dummy-data/elementor/widgets.wie
+Customizer file = not defined!
+Redux files:
+techmarket_options -> D:\PHP\htdocs\wordpress\techmarket/wp-content/themes/techmarket/assets/dummy-data/elementor/redux-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[ERROR] Failed to import "3" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import "home v1": Invalid post type elementor_library
+[WARNING] Failed to import "home v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v3": Invalid post type elementor_library
+[WARNING] Failed to import "home v4": Invalid post type elementor_library
+[WARNING] Failed to import "home v5": Invalid post type elementor_library
+[WARNING] Failed to import "home v6": Invalid post type elementor_library
+[WARNING] Failed to import "home v7": Invalid post type elementor_library
+[WARNING] Failed to import "home v8": Invalid post type elementor_library
+[WARNING] Failed to import "home v9": Invalid post type elementor_library
+[WARNING] Failed to import "home v10": Invalid post type elementor_library
+[WARNING] Failed to import "home v11": Invalid post type elementor_library
+[WARNING] Failed to import "landing v2": Invalid post type elementor_library
+[WARNING] Failed to import "home v12": Invalid post type elementor_library
+[WARNING] Failed to import "landing v1": Invalid post type elementor_library
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop Sidebar 1 : 
+
+Techmarket Product Categories - No Title - Imported
+Techmarket Product Filter - Filters - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Shop Sidebar 2 : 
+
+Techmarket Products Carousel - Featured Products - Imported
+
+Product Filters : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+
+Home Sidebar : 
+
+Techmarket Banner - &lt;strong&gt;1000 mAh&lt;/strong&gt;&lt;br &gt;&lt;span&gt;Power Bank Pro&lt;/span&gt; - Imported
+Techmarket Banner - New Arrivals&lt;br&gt; in&lt;strong&gt; Accesories&lt;/strong&gt;&lt;br&gt; at Best prices - Imported
+Techmarket Banner - Catch Best&lt;br&gt;&lt;strong&gt;Deals&lt;/strong&gt; on &lt;br&gt;the Curved &lt;br&gt;Soundbars - Imported
+Techmarket Features Block - No Title - Imported
+Techmarket Posts Carousel - From the Blog - Imported
+Techmarket Products Carousel - Latest Products - Imported
+Techmarket Poster - &lt;strong&gt;Listen in&lt;/strong&gt; Brilliant&lt;br&gt; Color via  - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Footer Widgets : 
+
+Navigation Menu - Find it Fast - Imported
+Navigation Menu -   - Imported
+Navigation Menu - Customer Care - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: techmarket_options finished successfully!
+
+---ocdi/after_import---
+
